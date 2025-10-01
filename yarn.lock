@@ -836,6 +836,11 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==
 
+create-next-app@^15.5.4:
+  version "15.5.4"
+  resolved "https://registry.yarnpkg.com/create-next-app/-/create-next-app-15.5.4.tgz#4d33e5696ca48b6efcd3ccfc35d309c18f3c1554"
+  integrity sha512-LiAadwiDdaigMbpXplCQqCIHOzrSQPyEa0lm5XCYx8HW313crhumWX3+92ExhkhRO7lsAcYtbZtZR5SkBcPyew==
+
 cross-spawn@^7.0.6:
   version "7.0.6"
   resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-7.0.6.tgz#8a58fe78f00dcd70c370451759dfbfaf03e8ee9f"
